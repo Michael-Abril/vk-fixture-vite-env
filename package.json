@@ -1,0 +1,1 @@
+{"name":"vk-fixture-vite-env","version":"1.0.0","scripts":{"build":"vite build"},"devDependencies":{"vite":"^5.4.0"}}
