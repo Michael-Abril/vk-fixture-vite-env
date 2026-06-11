@@ -1,0 +1,1 @@
+document.getElementById("app").textContent = "Varity VITE env fixture: " + (import.meta.env.VITE_TEST_MARKER || "MISSING");
